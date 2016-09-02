@@ -8,4 +8,6 @@
 具体方式为 
 
 :'<,'> w! >> memo.bak
+
+可以吧以上写在vimrc中自动映射到按键。
 map <F2> :'<,'> w! >> memo.bak<cr>
