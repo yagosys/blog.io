@@ -8,4 +8,4 @@
 具体方式为 
 
 :'<,'> w! >> memo.bak
-map <F2> :'<,'> w! >> memo.bak
+map <F2> :'<,'> w! >> memo.bak<cr>
